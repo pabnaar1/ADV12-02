@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/00 Lesson2/0-First Steps.unity
     guid: 5043a6db7ead9084d900bac02f124e4c
-  - enabled: 1
+  - enabled: 0
     path: Assets/03 Project1/0-First Steps.unity
     guid: e04f27b764bfb2b409a16c8f8fdf7286
+  - enabled: 1
+    path: Assets/02 Particles/0-First Steps.unity
+    guid: afe83c9529e50234996e719ad45167cc
   m_configObjects: {}
